@@ -1,0 +1,27 @@
+{
+  "name": "vuo-react-router",
+  "version": "0.0.1",
+  "description": "Router for Vuo + React",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ilkkahanninen/vuo-react-router"
+  },
+  "author": "Ilkka Hänninen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ilkkahanninen/vuo-react-router/issues"
+  },
+  "homepage": "https://github.com/ilkkahanninen/vuo-react-router",
+  "peerDependencies": {
+    "react": "0.x",
+    "vuo": "0.x"
+  },
+  "dependencies": {
+    "object-assign": "^2.0.0",
+    "route-parser": "0.0.3"
+  }
+}
